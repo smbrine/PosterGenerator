@@ -1,0 +1,112 @@
+{
+  "Банк": {
+    "Когда финансы поют романсы": {
+      "Тоже какая-нибудь кириллица": {
+        "text1": "photo1.png",
+        "text2": "photo2.png",
+        "text3": "photo3.png"
+      },
+      "sketch2": {
+        "text1": "photo4.png",
+        "text2": "photo5.png",
+        "text3": "photo6.png"
+      },
+      "sketch3": {
+        "text1": "photo7.png",
+        "text2": "photo8.png",
+        "text3": "photo9.png"
+      },
+      "sketch4": {
+        "text1": "photo10.png",
+        "text2": "photo11.png",
+        "text3": "photo12.png"
+      }
+    },
+    "Когда романсы поют финансы": {
+      "Еще набор кириллицы": {
+        "text1": "photo13.png",
+        "text2": "photo14.png",
+        "text3": "photo15.png"
+      },
+      "sketch2": {
+        "text1": "photo16.png",
+        "text2": "photo17.png",
+        "text3": "photo18.png"
+      },
+      "sketch3": {
+        "text1": "photo19.png",
+        "text2": "photo20.png",
+        "text3": "photo21.png"
+      },
+      "sketch4": {
+        "text1": "photo22.png",
+        "text2": "photo23.png",
+        "text3": "photo24.png"
+      }
+    },
+    "слово": {
+      "нога": {
+        "text1": "photo25.png",
+        "собака": "photo26.png",
+        "text3": "photo27.png"
+      },
+      "sketch2": {
+        "text1": "photo28.png",
+        "text2": "photo29.png",
+        "text3": "photo30.png"
+      },
+      "sketch3": {
+        "text1": "photo31.png",
+        "text2": "photo32.png",
+        "text3": "photo33.png"
+      },
+      "sketch4": {
+        "text1": "photo34.png",
+        "text2": "photo35.png",
+        "text3": "photo36.png"
+      }
+    },
+    "slogan4": {
+      "sketch1": {
+        "text1": "photo37.png",
+        "text2": "photo38.png",
+        "text3": "photo39.png"
+      },
+      "sketch2": {
+        "text1": "photo40.png",
+        "text2": "photo41.png",
+        "text3": "photo42.png"
+      },
+      "sketch3": {
+        "text1": "photo43.png",
+        "text2": "photo44.png",
+        "text3": "photo45.png"
+      },
+      "sketch4": {
+        "text1": "photo46.png",
+        "text2": "photo47.png",
+        "text3": "photo48.png"
+      }
+    },
+    "logo": "logo1.img"
+  },
+  "Сhocolate": {
+    "slogan1": {
+      "sketch1": {
+        "text1": "photo49.png"
+      }
+    }
+  },
+  "Museum": {
+
+  },
+  "Auto": {
+
+  },
+  "Example 5": {
+
+  },
+  "Example 6": {
+
+  }
+}
