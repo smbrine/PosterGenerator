@@ -1,0 +1,32 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.heap-static {
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+    height: 50px;
+}
+
+.heap-static ul {
+    padding: 0;
+    margin: 0;
+}
+
+.heap-static li {
+    float: left;
+}
+
+.heap-static ul li {
+    text-align: left;
+    padding: 2%;
+    padding-left: 3%;
+}
+
+.heap-static ul li a {
+    text-decoration: none;
+    color: red;
+}
