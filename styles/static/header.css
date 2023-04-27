@@ -1,17 +1,16 @@
-body {
-    padding: 0;
-    margin: 0;
-}
-
 .heap-static {
     background-color: black;
     padding: 0;
     margin: 0;
     width: 100vw;
-    height: 50px;
+    position: fixed;
+    border-collapse: separate;
+    border-radius: 7px;
+
 }
 
 .heap-static ul {
+    list-style-type: none;
     padding: 0;
     margin: 0;
 }
@@ -22,8 +21,8 @@ body {
 
 .heap-static ul li {
     text-align: left;
-    padding: 2%;
-    padding-left: 3%;
+    padding-left: 4vw;
+    padding-top: 4vh;
 }
 
 .heap-static ul li a {

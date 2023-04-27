@@ -1,0 +1,74 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: aliceblue;
+}
+
+.heap-temp {
+    padding: 0; 
+    margin: 0;
+    min-height: 95px;
+    background-color: black;
+}
+
+.wrapper {
+    align-items: center;
+    padding: 0;
+    background-color: wheat; 
+    width: 100vw;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    border-collapse: separate;
+    border-radius: 7px;
+}
+
+.wrapper .button-container button {
+    align-items: center;
+    background-color: rgba(27, 27, 27, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    height: 20vh;
+    width: 30vw;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: x-large;
+    text-decoration: none;
+    color: brown;
+}
+
+.wrapper .button-container {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    min-height: 72vh;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+    max-width: 90vw;
+    width: calc(100%-20px);
+}
+
+.wrapper .button-container button::before {
+    background: radial-gradient(
+        800px circle at var(--mouse-x) var(--mouse-y), 
+        rgba(17, 0, 255, 0.4),
+        transparent 40%
+    );
+    border-radius: inherit;
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    z-index: 2;
+}
+
+noscript .text {
+    padding: 10%;
+    text-align: center;
+}
