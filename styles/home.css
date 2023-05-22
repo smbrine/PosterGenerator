@@ -13,6 +13,7 @@ body {
     padding: 0; 
     margin: 0;
     min-height: 95px;
+    height: 10vh;
     background-color: black;
 }
 
@@ -32,8 +33,6 @@ body {
     align-items: center;
     background-color: rgb(42, 42, 131, 0.85);
     border: 1px solid rgba(255, 255, 255, 0.1);
-    height: 20vh;
-    width: 30vw;
     display: flex;
     position: relative;
     justify-content: center;
@@ -43,6 +42,10 @@ body {
     font: var(--font);
     font-size: 7vh;
     color: orange;
+    height: min(25vh, 100%);
+    min-height: 25vh;
+    width: min(30vw, 100%);
+    min-width: 35vw;
 }
 
 .wrapper .button-container {
@@ -53,7 +56,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 8px;
+    gap: 5px;
     max-width: 90vw;
     width: calc(100%-20px);
 }

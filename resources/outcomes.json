@@ -45,9 +45,9 @@
       }
     },
     "слово": {
-      "нога": {
+      "буква": {
         "text1": "photo25.png",
-        "собака": "photo26.png",
+        "текст": "photo26.png",
         "text3": "photo27.png"
       },
       "sketch2": {
@@ -93,26 +93,139 @@
   "Сок": {
     "Любимый вкус": {
       "Для всей семьи. Сок, в котором много радости для каждого дня": {
-
+        "Билибин": {
+          "Pic": "./resources/poster/bilibin/1.1.png"
+        },
+        "Модерн": {
+          "Pic": "./resources/poster/modern/1.1.png"
+        }
       },
       "Яблочный сок. Теперь в новой яркой упаковке. Удобно брать с собой": {
-
+        "Билибин": {
+          "Pic": "./resources/poster/bilibin/1.2.png"
+        },
+        "Модерн": {
+          "Pic": "./resources/poster/modern/1.2.png"
+        }
       },
       "Вкусные и полезные соки. Выбирайте любимый фрукт": {
-
+        "Билибин": {
+          "Pic": "./resources/poster/bilibin/1.3.png"
+        },
+        "Модерн": {
+          "Pic": "./resources/poster/modern/1.3.png"
+        }
       },
       "Для особенных минут и удовольствия. Наслаждайтесь новым вкусом»": {
-
+        "Билибин": {
+          "Pic": "./resources/poster/bilibin/1.4.png"
+        },
+        "Модерн": {
+          "Pic": "./resources/poster/modern/1.4.png"
+        }
       }
     },
     "Настроения вкус": {
-
+      "Для всей семьи. Сок, в котором много радости для каждого дня": {
+        "Билибин": {
+          "Pic": "./resources/poster/bilibin/2.1.png"
+        },
+        "Модерн": {
+          "Pic": "./resources/poster/modern/2.1.png"
+        }
+      },
+      "Яблочный сок. Теперь в новой яркой упаковке. Удобно брать с собой": {
+        "Билибин": {
+          "Pic": "./resources/poster/bilibin/2.2.png"
+        },
+        "Модерн": {
+          "Pic": "./resources/poster/modern/2.2.png"
+        }
+      },
+      "Вкусные и полезные соки. Выбирайте любимый фрукт": {
+        "Билибин": {
+          "Pic": "./resources/poster/bilibin/2.3.png"
+        },
+        "Модерн": {
+          "Pic": "./resources/poster/modern/2.3.png"
+        }
+      },
+      "Для особенных минут и удовольствия. Наслаждайтесь новым вкусом»": {
+        "Билибин": {
+          "Pic": "./resources/poster/bilibin/2.4.png"
+        },
+        "Модерн": {
+          "Pic": "./resources/poster/modern/2.4.png"
+        }
+      }
     },
     "Микс удовольствия": {
-
+      "Для всей семьи. Сок, в котором много радости для каждого дня": {
+        "Билибин": {
+          "Pic": "./resources/poster/bilibin/3.1.png"
+        },
+        "Модерн": {
+          "Pic": "./resources/poster/modern/3.1.png"
+        }
+      },
+      "Яблочный сок. Теперь в новой яркой упаковке. Удобно брать с собой": {
+        "Билибин": {
+          "Pic": "./resources/poster/bilibin/3.2.png"
+        },
+        "Модерн": {
+          "Pic": "./resources/poster/modern/3.2.png"
+        }
+      },
+      "Вкусные и полезные соки. Выбирайте любимый фрукт": {
+        "Билибин": {
+          "Pic": "./resources/poster/bilibin/3.3.png"
+        },
+        "Модерн": {
+          "Pic": "./resources/poster/modern/3.3.png"
+        }
+      },
+      "Для особенных минут и удовольствия. Наслаждайтесь новым вкусом»": {
+        "Билибин": {
+          "Pic": "./resources/poster/bilibin/3.4.png"
+        },
+        "Модерн": {
+          "Pic": "./resources/poster/modern/3.4.png"
+        }
+      }
     },
     "Сделай день ярче": {
-
+      "Для всей семьи. Сок, в котором много радости для каждого дня": {
+        "Билибин": {
+          "Pic": "./resources/poster/bilibin/4.1.png"
+        },
+        "Модерн": {
+          "Pic": "./resources/poster/modern/4.1.png"
+        }
+      },
+      "Яблочный сок. Теперь в новой яркой упаковке. Удобно брать с собой": {
+        "Билибин": {
+          "Pic": "./resources/poster/bilibin/4.2.png"
+        },
+        "Модерн": {
+          "Pic": "./resources/poster/modern/4.2.png"
+        }
+      },
+      "Вкусные и полезные соки. Выбирайте любимый фрукт": {
+        "Билибин": {
+          "Pic": "./resources/poster/bilibin/4.3.png"
+        },
+        "Модерн": {
+          "Pic": "./resources/poster/modern/4.3.png"
+        }
+      },
+      "Для особенных минут и удовольствия. Наслаждайтесь новым вкусом»": {
+        "Билибин": {
+          "Pic": "./resources/poster/bilibin/4.4.png"
+        },
+        "Модерн": {
+          "Pic": "./resources/poster/modern/4.4.png"
+        }
+      }
     }
   },
   "Museum": {
@@ -124,7 +237,7 @@
   "Example 5": {
 
   },
-  "Example 6": {
+  "Пример 6": {
 
   }
 }
