@@ -6,7 +6,7 @@
     position: fixed;
     border-collapse: separate;
     border-radius: 7px;
-
+    font-size: 2.5vh;
 }
 
 .heap-static ul {
@@ -21,11 +21,11 @@
 
 .heap-static ul li {
     text-align: left;
-    padding-left: 4vw;
-    padding-top: 4vh;
+    padding-left: 4%;
+    padding-top: 2%;
 }
 
 .heap-static ul li a {
     text-decoration: none;
-    color: red;
+    color: whitesmoke;
 }

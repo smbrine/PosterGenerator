@@ -4,7 +4,7 @@ var xhr = new XMLHttpRequest();
 var buttonContainer = document.getElementById("button-container");
 
 // Open a GET request to the JSON file
-xhr.open("GET", "/resources/outcomes.json", true);
+xhr.open("GET", "./resources/outcomes.json", true);
 
 // Set the responseType to "json"
 xhr.responseType = "json";
